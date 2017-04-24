@@ -53,7 +53,7 @@ This lab was an introduction to FragStats. FRAGSTATS is software from the Univer
 
 From the FRAGSTAT results, a transition matrix was created to show land use change from 1966 to 1976 in excel. We can observe that an increase in urban areas, at the lost of cropland/improved pasture and forage crops. This corresponds to the maps. That urban areas increase between 1966 to 1976, both outwards from the core as well as westward, southward and eastward. 
 
-![Transition Matrix]({{ site.url }}/img/pivottable.png){: .pull-right}{:height="200px" width="1000px"}
+![Transition Matrix]({{ site.url }}/img/pivot.png){: .pull-right}{:height="200px" width="1000px"}
 
 #### Lab 1: Spatial stats using Modelbuilder tutorial
 
