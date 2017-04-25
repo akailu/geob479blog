@@ -59,8 +59,6 @@ Illinois: sites in Ogle and Rock Island counties, sites along the Illinois River
 ##### Tick Collection 
 The two dragging methods were used to tick in 138 sites in 1997: July, September- October and 1998: June and May. Along side obtaining samples from small mammals 
 
-![Geographic distribution of Study sites]({{ site.url }}/img/Geographic distribution of Study sites.jpg){: .pull-left}{:height="1500px" width="300px"}
-
 ##### Sites the  were rated with data collected from the amount of ticks. 
 * Negative (0) if I. scapularis  was never found on vegetation or small mammals host. 
 * (1) if one stage of the tick was found, regardless of quantity. 
@@ -79,8 +77,6 @@ Data Sources:
 Scaled at 1:40,000 from Landsat Thematic Mapper (TM) band 3 (red), 4 (near-infrared), 5 (mid-infrared)  and NDVI for hierarchies classification system into wetlands, urban areas, and upland areas. 
 
 ##### Landcover, elevation, and quaternary geologic data Illinois and Wisconsin and Michigan: 1:1,000,000 
-
-![Predictive risk map of habitat suitability for *Ixodes scapularis* in Wisconsin and Illinois]({{ site.url }}/img/lymeriskmap.jpg){: .pull-right}{:height="1500px" width="300px"}
 
 ##### For Statistical Analysis: 
 1.	Univariate analysis was initially performed by using chi square contingency tables to determine significant associations between site positivity and environmental variables coded as previously described. 
